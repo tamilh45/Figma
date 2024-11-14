@@ -74,11 +74,12 @@ code for ss 4:
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-04-27 230927.png>)
 
-![alt text](<Screenshot 2024-04-27 230954.png>)
+![Screenshot 2024-04-27 230954](https://github.com/user-attachments/assets/4f65307d-299b-47df-898d-5382fe13268d)
+![Screenshot 2024-04-27 230927](https://github.com/user-attachments/assets/e914c682-f3ab-4634-9a3f-fa9b869b0665)
+![Screenshot 2024-04-27 231004](https://github.com/user-attachments/assets/d0b5ba8e-4034-42ab-b840-9d3097cc6415)
 
-![alt text](<Screenshot 2024-04-27 231004.png>)
+
 
 
 ## RESULT:
