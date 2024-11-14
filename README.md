@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:28.04.2024
+## Date:
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -73,14 +73,13 @@ code for ss 4:
 
 ```
 ## OUTPUT:
-## SS 1:
+
 ![alt text](<Screenshot 2024-04-27 230927.png>)
-## SS 2:
+
 ![alt text](<Screenshot 2024-04-27 230954.png>)
-## SS 3:
+
 ![alt text](<Screenshot 2024-04-27 231004.png>)
-## SS 4:
-![alt text](<Screenshot 2024-04-27 231021.png>)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
